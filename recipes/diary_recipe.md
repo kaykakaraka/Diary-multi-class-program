@@ -114,7 +114,7 @@ class DiaryEntry
 end
 
 
-def TodoList
+class TodoList
   def initialize
     # ...
   end
