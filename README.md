@@ -1,0 +1,1 @@
+# diary multi class program
